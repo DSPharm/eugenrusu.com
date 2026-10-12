@@ -58,3 +58,15 @@ nav a.active {
   color: var(--primary-color);
   background-color: #eff6ff;
 }
+
+@media (min-width: 48rem) {
+  headernav ul {
+    flex-direction: row;
+    gap: 1.5rem;
+  }
+
+  .social-links ul {
+    flex-direction: row;
+    gap: 1rem;
+  }
+}
