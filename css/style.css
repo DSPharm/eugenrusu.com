@@ -60,7 +60,7 @@ nav a.active {
 }
 
 @media (min-width: 48rem) {
-  headernav ul {
+  header nav ul {
     flex-direction: row;
     gap: 1.5rem;
   }
