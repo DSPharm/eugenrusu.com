@@ -130,6 +130,7 @@ nav a.active {
   text-decoration: underline;
 }
 
-.news p {
+#news {
+  color: red;
   font-size: 2 rem;
 }
